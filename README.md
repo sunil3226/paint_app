@@ -8,7 +8,7 @@
   <p>
     A lightweight and intuitive <strong>Paint App</strong> built with Android's <code>Canvas</code> and <code>View</code> components. Users can draw, erase, highlight, and clear the canvas with ease. This app features a minimal UI and a custom drawing view that responds to touch gestures.
   </p>
-
+  
   <h2>✨ Features</h2>
   <ul>
     <li>🖌️ <strong>Pencil Tool</strong> – Draw with a smooth black line.</li>
@@ -41,6 +41,15 @@
     <li>Saving drawings to gallery</li>
     <li>Undo/redo functionality</li>
     <li>Custom brush styles</li>
+  </ul>
+
+  <h2>📫 Contact</h2>
+  <p>
+    Feel free to reach out if you want to contribute or have suggestions!
+  </p>
+  <ul>
+    <li><strong>Author:</strong> Sunil</li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/Sunil3226" target="_blank">Sunil3226</a></li>
   </ul>
 
   </body>
