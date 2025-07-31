@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Simple Paint App</title>
-</head>
+  
 <body>
 
   <h1>🎨 Simple Paint App for Android</h1>
