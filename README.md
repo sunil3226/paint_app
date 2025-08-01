@@ -53,7 +53,7 @@
   </ul>
 
   
-Thank you for checking out my Tic Tac Toe app! Have fun playing! 🎉
+Thank you for checking out my Paint app! Have fun playing! 🎉
 
 <h2 align="center">✨ Happy Learning!</h2>
 
