@@ -52,5 +52,10 @@
     <li><strong>GitHub:</strong> <a href="https://github.com/Sunil3226" target="_blank">Sunil3226</a></li>
   </ul>
 
+  
+Thank you for checking out my Tic Tac Toe app! Have fun playing! 🎉
+
+<h2 align="center">✨ Happy Learning!</h2>
+
   </body>
 </html>
